@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://marcolamr-laughing-broccoli-vgxxx6995vxcwqw6-8000.preview.app.github.dev/'),
+    'url' => env('APP_URL', 'https://marcolamr-laughing-broccoli-vgxxx6995vxcwqw6-8000.preview.app.github.dev'),
 
     'asset_url' => env('ASSET_URL'),
 
